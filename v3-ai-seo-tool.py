@@ -153,6 +153,8 @@ if st.session_state.results:
             "Evaluation": data["evaluation"]
         })
     df = pd.DataFrame(table_rows)
+    
+    # VIEW ONLY — no CSV download
     st.dataframe(df, height=400)
 
     st.subheader("Overall AI SEO Score")
