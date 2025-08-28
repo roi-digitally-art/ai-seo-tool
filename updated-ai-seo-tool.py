@@ -14,7 +14,7 @@ Check if your website is optimized for **AI search engines** like Google AI Over
 The table below shows detailed audit results including impacted URLs, scores, and evaluation.
 """)
 st.markdown("""
-*Please book a meeting with us if you want expert help to improve your AI SEO performance: [Contact Us](https://roidigitally.com/contact-us-usa-europe/)*
+*If you think the tool is not accurate, or want to give us feedback, or want expert help to improve your AI SEO performance, feel free to book a meeting with us: [Contact Us](https://roidigitally.com/contact-us-usa-europe/)*
 """)
 
 # --- SIDEBAR ---
